@@ -1,1 +1,1 @@
-# Jamming
+** Codecademy Jamming project in React **
